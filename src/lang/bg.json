@@ -1,0 +1,13 @@
+// Bulgarian
+const lang = {
+    contact: 'Контакт',
+    born: 'Роден',
+    bornIn: 'в',
+    experience: 'Опит',
+    education: 'Образование',
+    skills: 'Умения',
+    projects: 'Проекти',
+    contributions: 'Приноси',
+    about: 'За мен'
+};
+export default lang;
